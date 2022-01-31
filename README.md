@@ -10,5 +10,7 @@ Many design choices used in the Aries Protocol are based on Impermax and Uniswap
 ## Contracts on Aurora Mainnet
 
 **BDeployer**: [0x2f25fB0b191B1C6F002791eBAb2Cd09dEfe26Ee0](https://explorer.mainnet.aurora.dev/address/0x2f25fB0b191B1C6F002791eBAb2Cd09dEfe26Ee0)
+
 **CDeployer**: [0xa50fC708C26599cCaFCf0a83cB334fAEE5423D04](https://explorer.mainnet.aurora.dev/address/0xa50fC708C26599cCaFCf0a83cB334fAEE5423D04)
+
 **Factory**: [0x856555150B8d8572924B5c75Bbd50bd33aef8CC1](https://explorer.mainnet.aurora.dev/address/0x856555150B8d8572924B5c75Bbd50bd33aef8CC1)
